@@ -1,0 +1,10 @@
+{
+  "views": {
+	"project-components": {
+	  "title": "Composants du projet"
+	},
+	"project-component-details": {
+	  "title": "Aperçu"
+	}
+  }
+}

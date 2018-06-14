@@ -1,0 +1,10 @@
+{
+  "views": {
+	"project-components": {
+	  "title": "Project Components"
+	},
+	"project-component-details": {
+	  "title": "Overview"
+	}
+  }
+}

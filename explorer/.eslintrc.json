@@ -1,0 +1,9 @@
+{
+  "globals": {
+	"ClientAddonApi": false,
+	"Vue": false
+  },
+  "rules": {
+	"indent": ["error", "tab"]
+  }
+}
